@@ -38,13 +38,13 @@ Esse é talvez o tópico mais importante, faça com atenção.
 ## Funcionalidades
 
 > Cadastro de usuario
-> ```
+> 
 > Login de usuario
-> ```
+>
 > Cadastro de Restaurante
-> ```
+> 
 > Cadastro de items para restaurante
-> ```
+> 
 
 
 ## Links
