@@ -1,0 +1,29 @@
+DELIVERY BACKEND
+
+CONTROLLERS
+
+-USER
+
+--LOGIN -> ok
+--REGISTER -> ok
+--Dish -> ok 
+--REQUESTS -> 
+
+-REQUESTS
+ user <-> restaurant
+
+-RESTAURANT
+--REGISTER
+
+
+DB
+
+-SQL -> USER, RESTAURANT, DISH -> ok
+
+-MONGODB -> REQUESTS ( MAYBE TRACK USER)
+
+
+QUEUE
+
+ ???
+
